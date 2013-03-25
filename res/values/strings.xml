@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shoutcast Template</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fetching_song">Retrieving song</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="now_playing">RADIO NAME is now playing</string>
+    <string name="buffering">Buffering…</string>
+
+</resources>
